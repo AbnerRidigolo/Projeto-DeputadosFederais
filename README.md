@@ -121,30 +121,7 @@ Não é necessário configurar variáveis de ambiente para o funcionamento bási
 
 - [API de Dados Abertos da Câmara dos Deputados](https://dadosabertos.camara.leg.br/swagger/api.html)
 
----
 
-## 📈 Possíveis Extensões
-
-- Filtro por partido e estado (UF)  
-- Exportação de relatórios em PDF/Excel  
-- Integração com banco de dados (PostgreSQL)  
-- Machine Learning para prever tendências de gasto  
-- API própria para fornecer os dados tratados
-
----
-
-## 🛡️ Licença
-
-Este projeto é open-source e distribuído sob a licença MIT.
-
----
-
-## 🙋‍♂️ Contribua
-
-Contribuições são bem-vindas!  
-Basta fazer um fork, criar uma branch e abrir um pull request com suas melhorias.
-
----
 
 ## ✉️ Contato
 
