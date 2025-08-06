@@ -1,10 +1,10 @@
-# 📊 Dashboard de Despesas dos Deputados Federais
+# Dashboard de Despesas dos Deputados Federais
 
 Este projeto é um sistema completo de **engenharia de dados com visualização interativa**, que coleta, processa e analisa os dados públicos das despesas dos deputados federais do Brasil, disponibilizados pela API da Câmara dos Deputados. O objetivo é promover **transparência pública** e **insights analíticos acessíveis** por meio de um **dashboard web**.
 
 ---
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 ✅ Coleta automatizada de dados diretamente da API da Câmara  
 ✅ Processamento, limpeza e padronização dos dados  
@@ -14,7 +14,7 @@ Este projeto é um sistema completo de **engenharia de dados com visualização 
 
 ---
 
-## 🏗️ Arquitetura do Projeto
+##  Arquitetura do Projeto
 
 ```
 ├── data/
@@ -33,7 +33,7 @@ Este projeto é um sistema completo de **engenharia de dados com visualização 
 
 ---
 
-## 📥 Como Executar Localmente
+##  Como Executar Localmente
 
 ### Pré-requisitos
 - Python 3.11+
@@ -90,7 +90,7 @@ Filtros:
 
 ---
 
-## ☁️ Deploy no Render (Gratuito)
+## Deploy no Render (Gratuito)
 
 1. Suba o projeto no GitHub  
 2. Acesse [https://render.com](https://render.com)  
